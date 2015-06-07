@@ -57,10 +57,6 @@ h3 {
   margin: 0 0 15px;
 }
 
-.clear {
-  clear: both;
-}
-
 /* clearfix */
 .group:before, .group:after {
   content:"";
