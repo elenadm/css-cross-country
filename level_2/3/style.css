@@ -32,6 +32,10 @@ aside p {
   font-style: italic;
 }
 
+aside p a {
+    font-style: normal;
+}
+
 article {
   float: left;
   width: 120px;
