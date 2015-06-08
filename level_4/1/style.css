@@ -4,18 +4,18 @@ body {
 }
 
 article h1 {
-  color: #444;
   text-align: left;
 }
 
 h1 {
   color: #7ab2c1;
-  font: bold 22px/28px Tahoma, Arial, sans-serif;
+  font-size: 22px;
+  line-height: 28px;
   margin: 0 0 10px;
   text-align: center;
 }
 
-article p {
+article p, h1 {
   color: #444;
 }
 
@@ -25,6 +25,3 @@ p {
   margin: 0 0 15px;
 }
 
-article p.disclaimer {
-  color: #444;
-}
